@@ -1,0 +1,31 @@
+//html
+$font-size: 16px;
+//backgrounds
+$navbarBackground: none;
+$navbarActiveBackground:    #131313;
+$aSectionBackground:  rgb(255, 255, 255);
+$bSectionBackground:    #27292c;;
+$cSectionBackground:   #ffffff;
+$dSectionBackground:    url(./assets/header_background_5179.png);
+$footerBackground:      rgb(17, 17, 17);
+//navbar
+$navbarHeight:5em;
+$navbarMax-width: 75em;
+$navbar-item-height: 5em;
+//footer and it's content
+$footer-max-width: 60em;
+//grid
+//@media screen and (min-width: 992px) grid-template-areas
+$gridTemplateAreas992:
+    "navbar"
+    "a"
+    "b"
+    "c"
+    "d"
+    "e"
+    "f"
+    "footer__container"
+    ;
+//@media screen and (max-width: 960px)
+
+
